@@ -24,12 +24,13 @@
 
     ```SQL
     -- select * from card where 사용금액 > 25000; -- 기존
-    DELIMITER $$
+
+    DELIMITER $$ -- ;로 끝내는걸 $$로 바꿔줌
     CREATE PROCEDURE get_all()
     BEGIN
         SELECT * FROM card WHERE 사용금액 > 25000;
     end $$
-    DELIMITER ;
+    DELIMITER ; -- 다시 ;로 바꿔줌
 
 
     CALL get_all();
