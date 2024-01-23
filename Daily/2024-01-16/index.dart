@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 late String name5;
 void main() {
   // null 불가능, 타입 변경 불가능

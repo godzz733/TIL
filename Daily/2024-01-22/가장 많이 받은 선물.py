@@ -32,6 +32,3 @@ def solution(friends, gifts):
                     
         
     return max(arr)
-
-ans = solution(["joy", "brad", "alessandro", "conan", "david"],["alessandro brad", "alessandro joy", "alessandro conan", "david alessandro", "alessandro david"])
-print(ans)
