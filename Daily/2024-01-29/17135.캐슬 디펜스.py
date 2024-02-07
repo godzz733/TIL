@@ -44,4 +44,3 @@ for i in range(m-2):
             bow = [[n,i],[n,j],[n,k]]
             ans = max(ans,find_ans(enemy.copy(),bow))
 print(ans)
-   
