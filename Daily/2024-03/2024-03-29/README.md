@@ -15,4 +15,3 @@
 |                 제목                  |  티어  |  분류  |                               링크                               |
 | :-----------------------------------: | :----: | :----: | :--------------------------------------------------------------: |
 | 분기별 분화된 대장균의 개체 수 구하기 | 레벨 2 | STRING | https://school.programmers.co.kr/learn/courses/30/lessons/299308 |
-| 분기별 분화된 대장균의 개체 수 구하기 | 레벨 2 | STRING | https://school.programmers.co.kr/learn/courses/30/lessons/299308 |
