@@ -14,4 +14,4 @@
 
 | 제목 | 티어 | 분류 |                 링크                  |
 | :--: | :--: | :--: | :-----------------------------------: |
-|      |      |      | https://www.acmicpc.net/problem/21278 |
+|  2 x n 타일링  |   레벨 2   |   DP   | https://school.programmers.co.kr/learn/courses/30/lessons/12900 |
