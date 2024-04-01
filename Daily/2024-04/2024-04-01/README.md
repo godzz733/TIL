@@ -14,4 +14,4 @@
 
 | 제목 | 티어 | 분류 |                 링크                  |
 | :--: | :--: | :--: | :-----------------------------------: |
-|      |      |      | https://www.acmicpc.net/problem/21278 |
+|   올바른 괄호   |   레벨 2   |   스택   | https://school.programmers.co.kr/learn/courses/30/lessons/12909 |
