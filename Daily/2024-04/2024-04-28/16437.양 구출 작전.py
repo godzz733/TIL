@@ -1,4 +1,5 @@
 import sys; input = sys.stdin.readline
+sys.setrecursionlimit(123457)
 n = int(input())
 arr = [[] for _ in range(n+1)]
 lst = [0] * (n+1)
